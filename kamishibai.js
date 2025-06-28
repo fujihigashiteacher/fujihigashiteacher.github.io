@@ -106,7 +106,7 @@ function nextSlide(){
 class Slide{    
     constructor(art, sound = null){
         this.art = art;
-        this.art.resize(width-margin);
+        this.art.resize(width-MARGIN);
         this.sound = sound;
         this.w = 1920;
         this.h = 1080;
