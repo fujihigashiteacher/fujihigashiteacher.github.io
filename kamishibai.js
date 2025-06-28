@@ -108,8 +108,8 @@ class Slide{
         this.art = art;
         this.art.resize(1346);
         this.sound = sound;
-        this.w = 1920;
-        this.h = 1080;
+        this.w = this.art.width;
+        this.h = this.art.height;
         this.activeX = width/2-this.w/2;
         this.hiddenX = -(this.w+MARGIN);
         this.targetX = this.activeX;
