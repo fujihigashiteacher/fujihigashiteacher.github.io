@@ -84,7 +84,7 @@ function draw(){
 }
 
 function mouseClicked(){
-    background(255);
+            alert("story started");
     playStory();
 }
 
@@ -107,14 +107,14 @@ function keyPressed(){
         case SPACE:
             //print("reset");
             //restart
-    background(255);
+            alert("story started");
             playStory();
     }
 }
 
 
 let slideTimer;
-const SLIDE_INTERVAL = 12000;
+const SLIDE_INTERVAL = 15000;
 
 function playStory(){
     for(let slide of slides){
