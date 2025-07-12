@@ -14,7 +14,7 @@ let script = [
     "So he announced, \“Orihime and Hikoboshi, I will permit you to meet once a year.\”\nHe decided that the day would be the 7th of July. So on the evening of July 7th, Orihime and Hikoboshi came running from the east and from the west until they reached the banks of the Milky Way River.",
     "Suddenly a flock of magpies appeared from nowhere and spread out their wings to form a bridge. This happens every year and Orihime crosses the bridge to join Hikoboshi.\nHowever, if it rains, it is said the Magpies don’t come and Orihime is unable to cross the river to meet Hikoboshi. If this happens, the couple has to wait another year until they can be reunited.\nThe day on which Orihime and Hikoboshi meet has come to be known as Tanabata which means \“7th evening\”.",
     "On the evening of Tanabata if there is a clear night sky, why don’t you try looking up.\nIf you do, you should be able to see Vega, the star of the Weaver Girl, and Altair, the star of the Cowherd Boy, shining brightly and happily next to each other.",
-    "Today, during Tanabata it is tradition to write wishes on tanzaku, colorful strips of paper. We hand the paper on a sasatake bamboo wishing tree so it will grow tall and straight towards the heavens."
+    "Today, during Tanabata it is tradition to write wishes on tanzaku, colorful strips of paper. We hang the paper on a sasatake bamboo wishing tree so it will grow tall and straight towards the heavens."
     
 ];
 
