@@ -2,7 +2,7 @@ let slides = ["title","slide2","slide3","slide4","slide5","slide6","slide7","sli
 let audio = [];
 let script = [
     "",
-    "This is a story from ancient China. Long, long ago the Emperor of the Heavens, Tentei, had a daughter. Her name was Orihime, which means weaver princess.",
+    "This is a story that came to Japan from ancient China. Long, long ago the Emperor of the Heavens, Tentei, had a daughter. Her name was Orihime, which means weaver princess.",
     "Just as her name suggests, Orihime was very good at weaving. She used the pattern of the clouds as inspiration for the designs of her beautiful cloth.\nTentei was delighted with her work, \“These are indeed heavenly garments\”, he said.\n\“Ton karan, ton karan\”. Even today you can hear the sound of Orihime’s loom as she weaves cloth.",
     "On the other side of The Milky Way River, a young man heard the sound of Orihime’s loom. He was a hard working boy who was a cattle herder. He was called Hikoboshi.\n\“What a beautiful sound, I wonder who is weaving\", thought Hikoboshi.",
     "Tentei became concerned that Orihime was working too hard. He thought that she might be lonely, with nobody to talk to or help her with her work.\nOne day Tentei said, \“I think that Orihime and Hikoboshi would get on well. If they get married, they will be able to work together, and I am doubtless that they will be even stronger than before. Orihime will be happy and they will make our life in the heavens much more prosperous.\” And so…",
