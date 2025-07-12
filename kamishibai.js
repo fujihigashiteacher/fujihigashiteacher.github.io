@@ -84,6 +84,7 @@ function draw(){
 }
 
 function mouseClicked(){
+    background(255);
     playStory();
 }
 
@@ -106,6 +107,7 @@ function keyPressed(){
         case SPACE:
             //print("reset");
             //restart
+    background(255);
             playStory();
     }
 }
